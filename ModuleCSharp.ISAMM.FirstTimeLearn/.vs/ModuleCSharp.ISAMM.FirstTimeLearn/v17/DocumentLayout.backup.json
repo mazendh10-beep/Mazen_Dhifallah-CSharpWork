@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|e:\\is\\modulecsharp.isamm.firsttimelearn\\modulecsharp.isamm.firsttimelearn\\dtos\\postuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|solutionrelative:modulecsharp.isamm.firsttimelearn\\dtos\\postuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|e:\\is\\modulecsharp.isamm.firsttimelearn\\modulecsharp.isamm.firsttimelearn\\dtos\\getuserbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|solutionrelative:modulecsharp.isamm.firsttimelearn\\dtos\\getuserbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|e:\\is\\modulecsharp.isamm.firsttimelearn\\modulecsharp.isamm.firsttimelearn\\dtos\\getalluserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|solutionrelative:modulecsharp.isamm.firsttimelearn\\dtos\\getalluserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|e:\\is\\modulecsharp.isamm.firsttimelearn\\modulecsharp.isamm.firsttimelearn\\services\\userservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|solutionrelative:modulecsharp.isamm.firsttimelearn\\services\\userservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|e:\\is\\modulecsharp.isamm.firsttimelearn\\modulecsharp.isamm.firsttimelearn\\repository\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|solutionrelative:modulecsharp.isamm.firsttimelearn\\repository\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|e:\\is\\modulecsharp.isamm.firsttimelearn\\modulecsharp.isamm.firsttimelearn\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|solutionrelative:modulecsharp.isamm.firsttimelearn\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|e:\\is\\modulecsharp.isamm.firsttimelearn\\modulecsharp.isamm.firsttimelearn\\repository\\pcgamerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|solutionrelative:modulecsharp.isamm.firsttimelearn\\repository\\pcgamerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|e:\\is\\modulecsharp.isamm.firsttimelearn\\modulecsharp.isamm.firsttimelearn\\repository\\ramrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|solutionrelative:modulecsharp.isamm.firsttimelearn\\repository\\ramrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|e:\\is\\modulecsharp.isamm.firsttimelearn\\modulecsharp.isamm.firsttimelearn\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|solutionrelative:modulecsharp.isamm.firsttimelearn\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|e:\\is\\modulecsharp.isamm.firsttimelearn\\modulecsharp.isamm.firsttimelearn\\entities\\ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|solutionrelative:modulecsharp.isamm.firsttimelearn\\entities\\ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|e:\\is\\modulecsharp.isamm.firsttimelearn\\modulecsharp.isamm.firsttimelearn\\entities\\pcram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|solutionrelative:modulecsharp.isamm.firsttimelearn\\entities\\pcram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|e:\\is\\modulecsharp.isamm.firsttimelearn\\modulecsharp.isamm.firsttimelearn\\entities\\pcgamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|solutionrelative:modulecsharp.isamm.firsttimelearn\\entities\\pcgamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|e:\\is\\modulecsharp.isamm.firsttimelearn\\modulecsharp.isamm.firsttimelearn\\entities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|solutionrelative:modulecsharp.isamm.firsttimelearn\\entities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|e:\\is\\modulecsharp.isamm.firsttimelearn\\modulecsharp.isamm.firsttimelearn\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91887684-F34E-4892-8649-B6A25748E5E0}|ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn.csproj|solutionrelative:modulecsharp.isamm.firsttimelearn\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostUserResponse.cs",
+              "DocumentMoniker": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\DTOs\\PostUserResponse.cs",
+              "RelativeDocumentMoniker": "ModuleCSharp.ISAMM.FirstTimeLearn\\DTOs\\PostUserResponse.cs",
+              "ToolTip": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\DTOs\\PostUserResponse.cs",
+              "RelativeToolTip": "ModuleCSharp.ISAMM.FirstTimeLearn\\DTOs\\PostUserResponse.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T21:05:06.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetUserByIdResponse.cs",
+              "DocumentMoniker": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\DTOs\\GetUserByIdResponse.cs",
+              "RelativeDocumentMoniker": "ModuleCSharp.ISAMM.FirstTimeLearn\\DTOs\\GetUserByIdResponse.cs",
+              "ToolTip": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\DTOs\\GetUserByIdResponse.cs",
+              "RelativeToolTip": "ModuleCSharp.ISAMM.FirstTimeLearn\\DTOs\\GetUserByIdResponse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T20:36:49.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseRepo.cs",
+              "DocumentMoniker": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\BaseRepo.cs",
+              "RelativeDocumentMoniker": "ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\BaseRepo.cs",
+              "ToolTip": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\BaseRepo.cs",
+              "RelativeToolTip": "ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\BaseRepo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T20:34:32.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\UserRepo.cs",
+              "ToolTip": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T20:35:36.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserServicecs.cs",
+              "DocumentMoniker": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Services\\UserServicecs.cs",
+              "RelativeDocumentMoniker": "ModuleCSharp.ISAMM.FirstTimeLearn\\Services\\UserServicecs.cs",
+              "ToolTip": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Services\\UserServicecs.cs",
+              "RelativeToolTip": "ModuleCSharp.ISAMM.FirstTimeLearn\\Services\\UserServicecs.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T20:34:05.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllUserResponse.cs",
+              "DocumentMoniker": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\DTOs\\GetAllUserResponse.cs",
+              "RelativeDocumentMoniker": "ModuleCSharp.ISAMM.FirstTimeLearn\\DTOs\\GetAllUserResponse.cs",
+              "ToolTip": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\DTOs\\GetAllUserResponse.cs",
+              "RelativeToolTip": "ModuleCSharp.ISAMM.FirstTimeLearn\\DTOs\\GetAllUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T20:36:15.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PcGamerRepo.cs",
+              "DocumentMoniker": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\PcGamerRepo.cs",
+              "RelativeDocumentMoniker": "ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\PcGamerRepo.cs",
+              "ToolTip": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\PcGamerRepo.cs",
+              "RelativeToolTip": "ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\PcGamerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T20:34:56.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RAMRepo.cs",
+              "DocumentMoniker": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\RAMRepo.cs",
+              "RelativeDocumentMoniker": "ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\RAMRepo.cs",
+              "ToolTip": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\RAMRepo.cs",
+              "RelativeToolTip": "ModuleCSharp.ISAMM.FirstTimeLearn\\Repository\\RAMRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T20:35:17.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\User.cs",
+              "ToolTip": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\User.cs",
+              "RelativeToolTip": "ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:28:36.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RAM.cs",
+              "DocumentMoniker": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\RAM.cs",
+              "RelativeDocumentMoniker": "ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\RAM.cs",
+              "ToolTip": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\RAM.cs",
+              "RelativeToolTip": "ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\RAM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:29:50.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PcRAM.cs",
+              "DocumentMoniker": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\PcRAM.cs",
+              "RelativeDocumentMoniker": "ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\PcRAM.cs",
+              "ToolTip": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\PcRAM.cs",
+              "RelativeToolTip": "ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\PcRAM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:08:54.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PCGamer.cs",
+              "DocumentMoniker": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\PCGamer.cs",
+              "RelativeDocumentMoniker": "ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\PCGamer.cs",
+              "ToolTip": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\PCGamer.cs",
+              "RelativeToolTip": "ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\PCGamer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:22:05.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\Enums.cs",
+              "RelativeDocumentMoniker": "ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\Enums.cs",
+              "ToolTip": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\Enums.cs",
+              "RelativeToolTip": "ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:51:23.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\BaseEntity.cs",
+              "ToolTip": "E:\\IS\\ModuleCSharp.ISAMM.FirstTimeLearn\\ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "ModuleCSharp.ISAMM.FirstTimeLearn\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:27:17.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

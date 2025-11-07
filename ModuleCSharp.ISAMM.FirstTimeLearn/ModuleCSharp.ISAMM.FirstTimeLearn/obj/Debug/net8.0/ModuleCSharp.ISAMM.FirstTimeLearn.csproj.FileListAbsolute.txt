@@ -1,0 +1,4 @@
+E:\IS\ModuleCSharp.ISAMM.FirstTimeLearn\ModuleCSharp.ISAMM.FirstTimeLearn\obj\Debug\net8.0\ModuleCSharp.ISAMM.FirstTimeLearn.GeneratedMSBuildEditorConfig.editorconfig
+E:\IS\ModuleCSharp.ISAMM.FirstTimeLearn\ModuleCSharp.ISAMM.FirstTimeLearn\obj\Debug\net8.0\ModuleCSharp.ISAMM.FirstTimeLearn.AssemblyInfoInputs.cache
+E:\IS\ModuleCSharp.ISAMM.FirstTimeLearn\ModuleCSharp.ISAMM.FirstTimeLearn\obj\Debug\net8.0\ModuleCSharp.ISAMM.FirstTimeLearn.AssemblyInfo.cs
+E:\IS\ModuleCSharp.ISAMM.FirstTimeLearn\ModuleCSharp.ISAMM.FirstTimeLearn\obj\Debug\net8.0\ModuleCSharp.ISAMM.FirstTimeLearn.csproj.CoreCompileInputs.cache
